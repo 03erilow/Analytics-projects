@@ -1,5 +1,5 @@
 # Analytics-projects
-In this repository, I store the code used for my modelling projects in football analytics. The following links take you to the articles where describe the models I've created, and derive he equations used in the models. 
+In this repository, I store the code used for my modelling projects in football analytics. The following links take you to the articles where describe the models I've created, and where I derive the equations used in the models. 
 
 Final Third Proficienci Index, FTPI: https://medium.com/@enmlowe/introduction-to-final-third-proficiency-index-a-way-to-measure-success-in-the-final-third-in-9abcc08f5ecb
 
